@@ -1,0 +1,50 @@
+[
+  {
+    "notebook": "00_system_map.ipynb",
+    "code_cells": 4,
+    "outputs": 4,
+    "status": "passed"
+  },
+  {
+    "notebook": "01_ingest_and_chunk.ipynb",
+    "code_cells": 4,
+    "outputs": 4,
+    "status": "passed"
+  },
+  {
+    "notebook": "02_retrieve_and_rank.ipynb",
+    "code_cells": 5,
+    "outputs": 5,
+    "status": "passed"
+  },
+  {
+    "notebook": "03_grounded_generation.ipynb",
+    "code_cells": 4,
+    "outputs": 4,
+    "status": "passed"
+  },
+  {
+    "notebook": "04_evaluation.ipynb",
+    "code_cells": 5,
+    "outputs": 5,
+    "status": "passed"
+  },
+  {
+    "notebook": "05_capstone.ipynb",
+    "code_cells": 3,
+    "outputs": 3,
+    "status": "passed"
+  },
+  {
+    "notebook": "06_bfsi_access_control.ipynb",
+    "code_cells": 6,
+    "outputs": 6,
+    "status": "passed"
+  },
+  {
+    "notebook": "07_bfsi_langchain_end_to_end.ipynb",
+    "code_cells": 6,
+    "outputs": 6,
+    "status": "passed"
+  }
+]
